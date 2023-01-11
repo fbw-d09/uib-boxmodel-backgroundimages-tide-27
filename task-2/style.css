@@ -1,5 +1,34 @@
 .info-1, .info-2, .info-3 {
-    width: 30%;
+    width: 29%;
     color: white;
     text-shadow: 1px 1px 1px black;
+    display: inline-block;
+    padding: 20px;
+    border: 5px solid lime;
+    border-radius: 22px;
+    background-size: cover;
+    background-position: bottom;
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(211, 90, 14);
+}
+
+.info-1{
+
+    
+    background-image: url(./assets/task2-bg.jpeg);
+    
+}
+
+.info-2{
+    
+    background-image: url(./assets/task2-bg1.jpeg);
+}
+
+.info-3{
+    
+    background-image: url(./assets/task2-bg2.jpg);
 }
